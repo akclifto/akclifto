@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![akclifto's GitHub stats](https://github-readme-stats.vercel.app/api?username=akclifto)](https://github.com/akclifto/github-readme-stats)
+
 <!--
 **akclifto/akclifto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
